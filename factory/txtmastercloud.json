@@ -1,0 +1,9 @@
+{
+	"name": "txtmastercloud",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d9904c0a-06a5-4697-a15c-9ecac5ec48ea",
+		"tenantId": "5b7acea7-1236-4f76-81d1-1c3e92e903b7"
+	}
+}
