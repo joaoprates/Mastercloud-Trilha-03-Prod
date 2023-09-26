@@ -1,5 +1,13 @@
 {
 	"name": "txtmastercloud",
+	"properties": {
+		"globalParameters": {
+			"enviroment": {
+				"type": "string",
+				"value": "production"
+			}
+		}
+	},
 	"location": "eastus2",
 	"identity": {
 		"type": "SystemAssigned",
